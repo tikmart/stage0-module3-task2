@@ -11,6 +11,5 @@ public class JavaVariableNames {
         int star = 1000000;
         int goodName = 1000000;
 
-        System.out.println(goodName);
     }
 }
