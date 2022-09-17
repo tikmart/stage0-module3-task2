@@ -10,6 +10,7 @@ public class JavaVariableNames {
         int sharp = 100000;
         int star = 1000000;
         int goodName = 1000000;
+        System.out.println(goodName);
 
     }
 }
